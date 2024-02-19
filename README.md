@@ -6,7 +6,7 @@
 - `id` indicates the unique comment id that can be used to get the text through the Reddit/YouToube API. 
 - `label` indicates the final label assigned to each of the text
 - `source` indicates whether the comment/text is from **Reddit** or **YouTube**
-- In case the full dataset with the text is required please email the corresponding author of the paper at [mac9908@rit.com](mailto:mac9908@rit.edu)
+- In case the full dataset with the text is required please email the corresponding author of the paper at [mac9908@rit.edu](mailto:mac9908@rit.edu)
 
 ## Code
 - The code and configuration parameters for training the large language models `LLAMA2` and `MistralAI` are in the `llm.py` file under the `training` folder.
