@@ -18,7 +18,7 @@
 ```
 @inproceedings{chowdhury2024infrastructure,
   title={Infrastructure Ombudsman: Mining Future Failure Concerns from Structural Disaster Response},
-  author={Chowdhury, Md Towhidul Absar and Datta, Soumyajit and KhudaBukhsh, Ashiqur R. and Sharma, Naveen},
+  author={Chowdhury, Md Towhidul Absar and Datta, Soumyajit and Sharma, Naveen and KhudaBukhsh, Ashiqur R.},
   booktitle={Proceedings of the ACM Web Conference 2024},
   year={2024}
 }
